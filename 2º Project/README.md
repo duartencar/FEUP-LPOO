@@ -6,10 +6,10 @@
 ![UML]
 
 ### JAVADOC
-https://duartencar.github.io/LPOO1718_T3G16_SwimmingCoach/
+https://github.com/duartencar/FEUP-LPOO/tree/master/2%C2%BA%20Project/docs
 
 ### EXECUTABLE FILES
-https://github.com/duartencar/LPOO1718_T3G16_SwimmingCoach/tree/finalRelease/exec
+https://github.com/duartencar/FEUP-LPOO/tree/master/2%C2%BA%20Project/exec
 
 ### Design Patterns
   * Singleton - in main container
